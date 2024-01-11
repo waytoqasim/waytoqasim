@@ -28,9 +28,9 @@ const Navbar = () => {
       <div className="flex container lg:py-4 flex-wrap items-center justify-between mx-auto py-2 px-4 lg:px-20">
         <Link
           href={"/"}
-          className="text-2xl md:text-5xl text-white font-semibold"
+          className="w-28 lg:w-60"
         >
-          LOGO
+          <img src="/images/logo-dark.png" alt="Qasim Saeed Professional React Next Web Developer" />
         </Link>
         <div className="mobile-menu block md:hidden">
           {!navbarOpen ? (
