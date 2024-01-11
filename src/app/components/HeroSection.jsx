@@ -37,7 +37,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Embark on a digital odyssey through innovation and creativity with my online showcase! As a seasoned React, Next, and WordPress developer, I breathe life into your digital dreams. Explore a fusion of sleek designs, seamless user experiences, and powerful functionalities that highlight my passion for cutting-edge web development. Whether you seek dynamic React applications, resilient Next.js solutions, or WordPress marvels, this portfolio is your portal to a realm where code intersects with creativity. Let's reshape the digital landscape together – one line of code at a time!
+         {` Embark on a digital odyssey through innovation and creativity with my online showcase! As a seasoned React, Next, and WordPress developer, I breathe life into your digital dreams. Explore a fusion of sleek designs, seamless user experiences, and powerful functionalities that highlight my passion for cutting-edge web development. Whether you seek dynamic React applications, resilient Next.js solutions, or WordPress marvels, this portfolio is your portal to a realm where code intersects with creativity. Let's reshape the digital landscape together – one line of code at a time!`}
           </p>
           <div>
             <Link

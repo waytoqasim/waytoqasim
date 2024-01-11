@@ -55,11 +55,20 @@ const EmailSection = () => {
           open. Whether you have a question or just want to say hi, I&apos;ll
           try my best to get back to you!
         </p>
+        <p className="text-[#ADB7BE] mb-4 max-w-md">
+          {" "}
+        <span className="font-bold">Email:</span> <a href="mailto:waytoqasim@gmail.com">waytoqasim@gmail.com</a>
+        </p>
+        <p className="text-[#ADB7BE] mb-4 max-w-md">
+          {" "}
+        <span className="font-bold">Phone:</span> <a href="tel:+923006330262">+92 300 6330262</a>
+        </p>
+
         <div className="socials flex flex-row gap-2">
-          <Link href="github.com">
+          <Link href="https://github.com/waytoqasim">
             <Image src={GithubIcon} alt="Github Icon" />
           </Link>
-          <Link href="linkedin.com">
+          <Link href="https://www.linkedin.com/in/waytoqasim/">
             <Image src={LinkedinIcon} alt="Linkedin Icon" />
           </Link>
         </div>
