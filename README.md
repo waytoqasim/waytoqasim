@@ -1,21 +1,27 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-18879
-Fork on GitHub
-5643
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Qasim Saeed</h1>
-<h3 align="center">Passionate frontend developer I am a full stWeb developer with a passion for creating interactive and responsive web applications.</h3>
+<h3 align="center">I am a full stack web developer with a passion for creating interactive and responsive web applications.</h3>
+
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const Rizwan = {
+	pronouns: 'He' | 'Him',
+	code: ['Javascript', 'Python', 'Php'],
+	askMeAbout: ['Web Dev', 'Tech', 'App Dev'],
+	technologies: {
+		frontEnd: {
+			js: ['React', 'Next', 'Vue', 'Aungular']
+		},
+		backEnd: {
+			js: ['Node', 'Nest', 'Express'],
+			php: ['Laravel']
+		},
+		databases: ['mongo', 'MySql', 'sqlite', 'Firebase']
+	},
+	architecture: ['Serverless Architecture', 'Progressive Web Applications', 'Single page applications']
+}
+```
 
 - 👨‍💻 All of my projects are available at [https://waytoqasim.vercel.app/](https://waytoqasim.vercel.app/)
 
@@ -33,27 +39,4 @@ preview
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waytoqasim&show_icons=true&locale=en" alt="waytoqasim" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
