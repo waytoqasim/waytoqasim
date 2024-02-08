@@ -5,7 +5,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
-const Rizwan = {
+const Qasim = {
 	pronouns: 'He' | 'Him',
 	code: ['Javascript', 'Python', 'Php'],
 	askMeAbout: ['Web Dev', 'Tech', 'App Dev'],
@@ -23,9 +23,7 @@ const Rizwan = {
 }
 ```
 
-- 👨‍💻 All of my projects are available at [https://waytoqasim.vercel.app/](https://waytoqasim.vercel.app/)
-
-- 📫 How to reach me **waytoqasim@gmail.com**
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,5 +36,14 @@ const Rizwan = {
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waytoqasim&show_icons=true&locale=en&layout=compact" alt="waytoqasim" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waytoqasim&show_icons=true&locale=en" alt="waytoqasim" /></p>
+
+
+<hr>
+
+- 👨‍💻 All of my projects are available at [https://waytoqasim.vercel.app/](https://waytoqasim.vercel.app/)
+
+- 📫 How to reach me **waytoqasim@gmail.com**
+
+<hr>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
